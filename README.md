@@ -5,8 +5,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+from+Chennai;Lifelong+Learner;Love+to+Build+and+Create!" />
 </h3>
 
+<!-- Personal Image or GIF -->
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 - 👨‍💻 Full-Stack Developer based in Chennai, India.  
+- 🌱 Currently learning **Machine Learning** and **Cloud Technologies**.
+- 💬 Ask me about **Web Development**, **React**, **NodeJS**, and **Full-Stack**.
 - 📫 How to reach me: [syogesappu@gmail.com](mailto:syogesappu@gmail.com)
+- ⚡ Fun fact: I love to solve puzzles and play chess.
+
+---
 
 <h3 align="left">📲 Connect with me:</h3>
 <div align="left">
@@ -15,6 +23,8 @@
   <a href="https://www.instagram.com/yogeswaran7475?igsh=MXcwc2JqMWJjanhjdw=="><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://t.me/YogeswaranS7475"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </div>
+
+---
 
 <h3 align="left">🚀 Tech Stack:</h3>
 <div align="left">
@@ -33,6 +43,8 @@
   <img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white"/>
 </div>
 
+---
+
 <h3 align="left">🗄️ Databases:</h3>
 <div align="left">
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -41,18 +53,38 @@
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%230000FF.svg?style=for-the-badge&logo=Firebase&logoColor=yellow"/>
 </div>
 
-<h3 align="left">📊 GitHub Activity:</h3>
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Appuyoges&show_icons=true&theme=dark&locale=en" alt="YOGESWARAN S" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Appuyoges&show_icons=true&theme=dark&locale=en&layout=compact" alt="YOGESWARAN S" />
-    </td>
-  </tr>
-</table>
+---
 
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Appuyoges&theme=dark" alt="YOGESWARAN S" />
-</div>
+<h3 align="left">🏆 GitHub Trophies:</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Appuyoges&theme=onedark&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+---
+
+<h3 align="left">📈 GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Appuyoges&show_icons=true&theme=dark&locale=en" alt="YOGESWARAN S" />
+</p>
+
+<h3 align="left">👨‍💻 Most Used Languages:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Appuyoges&show_icons=true&theme=dark&locale=en&layout=compact" alt="Most Used Languages" />
+</p>
+
+<h3 align="left">🔥 Streak Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Appuyoges&theme=dark" alt="YOGESWARAN S" />
+</p>
+
+<h3 align="left">📊 Contribution Graph:</h3>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Appuyoges&bg_color=0d1117&color=fff&line=00E676&point=fff&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+<h3 align="left">👁️‍🗨️ Profile Visitors:</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Appuyoges&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views Counter" />
+</p>
