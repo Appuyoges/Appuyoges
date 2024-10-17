@@ -59,8 +59,9 @@
 
 ### 📈 Contribution Graph:
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Appuyoges&bg_color=1A1B27&color=00CFFF&line=FF9500&point=FFFFFF&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Appuyoges&bg_color=1A1B27&color=00CFFF&line=FF9500&point=FFFFFF&area=true&hide_border=true" alt="GitHub Contribution Graph" />
 </div>
+
 
 ---
 
