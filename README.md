@@ -110,16 +110,22 @@
 <h3 align="center">Thank you for visiting my profile! 😄</h3>
 
 <!-- Smooth Floating Animation for the Banner -->
+
 <style>
 @keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-20px); }
-  100% { transform: translateY(0px); }
-}
-.float-banner {
-  animation: float 3s ease-in-out infinite;
+  0% {
+    transform: translatey(0px);
+  }
+  50% {
+    transform: translatey(-20px);
+  }
+  100% {
+    transform: translatey(0px);
+  }
 }
 </style>
+
+
 
 <h1 class="float-banner" align="center">👋 Welcome to My GitHub Profile!</h1>
 
