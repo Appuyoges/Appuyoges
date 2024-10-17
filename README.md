@@ -9,9 +9,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Appuyoges&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Appuyoges?label=Followers&style=social" />
-
-  <img src="https://komarev.com/ghpvc/?username=Appuyoges&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Appuyoges?label=Followers&style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/Appuyoges?style=social" alt="Stars" />
 
 
