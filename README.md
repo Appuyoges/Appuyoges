@@ -68,16 +68,16 @@
 
 ### ⏳ My Coding Activity:
 <div align="center">
-  <!-- Wakatime for Tracking Coding Activity -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Appuyoges&theme=highcontrast&layout=compact" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Appuyoges&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ---
 
 ### ✍️ Dynamic Quote:
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Motivational Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Motivational Quote" />
 </div>
+
 
 ---
 
