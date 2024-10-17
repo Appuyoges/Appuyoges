@@ -1,5 +1,5 @@
 <!-- Custom Banner with Animation -->
-<img src="https://github.com/Appuyoges/Appuyoges/raw/main/assets/banner.gif" alt="Welcome to My GitHub Profile" style="width:100%; border-radius:10px; animation: float 5s infinite;" />
+<img src="https://github.com/Appuyoges/Appuyoges/raw/main/assets/banner.gif" alt="Welcome to My GitHub Profile" style="width:100%; border-radius:10px;" />
 
 <h1 align="center">👋 Hi, I'm <a href="https://github.com/Appuyoges" target="_blank">Yogeswaran S</a></h1>
 <h3 align="center">
@@ -25,7 +25,7 @@
 
 ### ⚡️ My Tech Stack:
 <div align="center">
-  <!-- 3D Tech Stack Badges with Hover Animation -->
+  <!-- 3D Tech Stack Badges -->
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -51,7 +51,7 @@
 
 ### 🏆 Achievements:
 <p align="center">
-  <!-- Custom Trophies with Hover Animation -->
+  <!-- Custom Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=Appuyoges&theme=radical&no-frame=true&margin-w=15&column=6" alt="GitHub Trophies" />
 </p>
 
@@ -61,8 +61,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Appuyoges&bg_color=1A1B27&color=00CFFF&line=FF9500&point=FFFFFF&area=true&hide_border=true" alt="GitHub Contribution Graph" />
 </div>
-
-
 
 ---
 
@@ -78,54 +76,25 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Motivational Quote" />
 </div>
 
-
 ---
 
 ### 📲 Connect with Me:
 <p align="center">
   <!-- Animated Icons for Social Profiles -->
   <a href="https://www.linkedin.com/in/yogeswaran7475/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="transform: scale(1.05);" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:syogesappu@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="transform: scale(1.05);" />
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/yogeswaran7475">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="transform: scale(1.05);" />
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://t.me/YogeswaranS7475">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style="transform: scale(1.05);" />
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🎨 Personalized Touch:
-- **Custom Animations**: Adds a personal touch with floating banners and hover effects.
-- **Unique GitHub Trophies**: Showcasing top achievements in a more engaging way.
-- **Interactive Coding Activity**: Track your weekly coding hours with Wakatime integration.
-
----
-
 <h3 align="center">Thank you for visiting my profile! 😄</h3>
-
-<!-- Smooth Floating Animation for the Banner -->
-
-<style>
-@keyframes float {
-  0% {
-    transform: translatey(0px);
-  }
-  50% {
-    transform: translatey(-20px);
-  }
-  100% {
-    transform: translatey(0px);
-  }
-}
-</style>
-
-
-
-<h1 class="float-banner" align="center">👋 Welcome to My GitHub Profile!</h1>
-
